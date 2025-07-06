@@ -51,20 +51,6 @@ OPENROUTER_API_KEY = "your_openrouter_key_here"
 jupyter notebook reddit_parser_notebook.ipynb
 ```
 
-### Step 4: First Run
-**⚠️ IMPORTANT**: Always start with "QUICK TESTING" first
-1. Open the notebook
-2. Find the "Alternative Settings" section
-3. Uncomment the "QUICK TESTING" block
-4. Run all cells sequentially
-
-### Step 5: Verify Results
-If everything works correctly, you should see:
-- Successful Reddit API connection
-- Posts parsing from subreddits
-- LLM idea generation
-- Excel and JSON files creation
-
 ## 🎯 Notebook Features
 
 - 📊 **Reddit Parsing**: Posts and comments from any subreddits
