@@ -1,0 +1,14 @@
+# Reddit API налаштування
+# Отримайте на https://www.reddit.com/prefs/apps
+REDDIT_CLIENT_ID=your_client_id_here
+REDDIT_CLIENT_SECRET=your_client_secret_here
+REDDIT_USER_AGENT=RedditParser/1.0
+
+# OpenRouter API ключ
+# Отримайте на https://openrouter.ai/
+OPENROUTER_API_KEY=your_openrouter_key_here
+
+# Інструкції:
+# 1. Скопіюйте цей файл як .env
+# 2. Замініть значення на ваші реальні ключі
+# 3. Не додавайте .env до git (він вже в .gitignore) 
