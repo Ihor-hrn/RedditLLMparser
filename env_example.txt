@@ -11,4 +11,3 @@ OPENROUTER_API_KEY=your_openrouter_key_here
 # Інструкції:
 # 1. Скопіюйте цей файл як .env
 # 2. Замініть значення на ваші реальні ключі
-# 3. Не додавайте .env до git (він вже в .gitignore) 
